@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.Views.PetView.resources
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\bin\Debug\CSHARPCRUDMVC.exe.config
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\bin\Debug\CSHARPCRUDMVC.exe
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\bin\Debug\CSHARPCRUDMVC.pdb
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.exe
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.pdb
+C:\Users\Administrator\source\repos\CSHARPCRUDMVC\CSHARPCRUDMVC\obj\Debug\CSHARPCRUDMVC.Views.MainView.resources
